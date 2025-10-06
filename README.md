@@ -24,9 +24,8 @@ I am a **Software Developer**, **Certified Cybersecurity Professional**, and **A
 - [Sign-Natural/signnatural-api-refactor](https://github.com/Sign-Natural/signnatural-api-refactor): API refactor for sign language projects.
 - [medpharma-backend](https://github.com/koby47/medpharma-backend): Backend for medical & pharma management.
 
-**Coming soon:**  
-- MERN + OpenAI voice/text interview simulation platform  
-- Wellness & Healing Center booking & program management solution
+Coming soon:
+- Facility booking platform
 
 ---
 
@@ -49,4 +48,4 @@ Currently focused on:
 
 ---
 
-⭐️ **Fun fact:** I blend creativity with security — from designing intuitive user interfaces to ensuring they’re built on secure foundations.
+Fun fact: I blend creativity with security — from designing intuitive user interfaces to ensuring they’re built on secure foundations.
