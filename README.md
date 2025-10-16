@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Samuel Mensah Quaye 
+#  Hi, I’m Samuel Mensah Quaye 
 
 I am a **Software Developer**, **Certified Cybersecurity Professional**, and **AWS Cloud Practitioner (in training)** with a passion for building secure, scalable, and user-focused solutions. With over 7 years of combined experience in Administration, IT Support, and Cybersecurity, I bring a rare mix of technical expertise and operational excellence to every project.
 
-💡 My IT journey began in 2006 at a computer hardware repair shop, where I honed hands-on troubleshooting and people skills. Today, I’m focused on **MERN stack development**, **cloud security**, and **DevOps** practices to deliver reliable applications and resilient infrastructure.
+ My IT journey began in 2006 at a computer hardware repair shop, where I honed hands-on troubleshooting and people skills. Today, I’m focused on **MERN stack development**, **cloud security**, and **DevOps** practices to deliver reliable applications and resilient infrastructure.
 
 ---
 
@@ -16,7 +16,7 @@ I am a **Software Developer**, **Certified Cybersecurity Professional**, and **A
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - [EzBook-front](https://github.com/koby47/EzBook-front): MERN stack booking facility app with enhanced “View Details” feature.
 - [ezbook-api](https://github.com/koby47/ezbook-api): RESTful API for EzBook.
